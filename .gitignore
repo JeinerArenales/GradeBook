@@ -1,4 +1,6 @@
+.vscode
 */**/bin/Debug
 */**/bin/Release
+*/**/obj
 */**/obj/Debug
 */**/obj/Release
